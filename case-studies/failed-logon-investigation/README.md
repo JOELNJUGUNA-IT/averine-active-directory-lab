@@ -20,8 +20,8 @@ The evidence did not link the failed logon to `testuser` or establish an account
 
 ## Evidence
 
-![DC01 Event 4625 with status and substatus](screenshots/01-failed-logon-clock-status.png)
+![DC01 Event 4625 with status and substatus](screenshoots/01-failed-logon-clock-status.png)
 
-![Three clock offset readings from CLIENT01 to DC01](screenshots/02-client-dc-clock-offset.png)
+![Three clock offset readings from CLIENT01 to DC01](screenshoots/02-client-dc-clock-offset.png)
 
-![DC01 event count and testuser account status](screenshots/03-account-status-and-event-count.png)
+![DC01 event count and testuser account status](screenshoots/03-account-status-and-event-count.png)
